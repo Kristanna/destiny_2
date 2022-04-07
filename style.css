@@ -1,0 +1,55 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.Header {
+    width: 100%;
+    height: 100px;
+    display: flex;
+   justify-content: center;
+   padding-bottom: 100px;
+}
+
+.Logo {
+    width: 100px;
+    margin-top: 3px;
+}
+
+.sisu {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.content {
+    border: black solid 4px;
+    width: fit-content;
+    background-color: rgb(172, 172, 172);
+    display: flex;
+    margin: 10px;
+}
+
+.content img {
+    padding: 10px;
+}
+
+.content div {
+    margin-left: 30px;
+    margin-right: 65px;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.content div div {
+    background-color: gray;
+    border: black solid 2px;
+    text-align: center;
+}
+
+.content div div h1 {
+    padding: 10px;
+}
