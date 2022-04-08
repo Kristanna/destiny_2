@@ -32,5 +32,7 @@
 - Express
 - Figma
 
-[Figma](https://www.figma.com/file/aJcofflB3D2tIuPHWf3qvu/Untitled?node-id=0%3A1)
+[Figma](https://www.figma.com/file/aJcofflB3D2tIuPHWf3qvu/Untitled?node-id=0%3A1)<br/>
 [Leht](https://rainis-destiny.netlify.app/)
+
+![energy_hack_team2.jpg](https://github.com/oliverounaid/energyhack-project/blob/main/Images/energy_hack_team2.jpg)
