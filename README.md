@@ -35,4 +35,4 @@
 [Figma](https://www.figma.com/file/aJcofflB3D2tIuPHWf3qvu/Untitled?node-id=0%3A1)<br/>
 [Leht](https://rainis-destiny.netlify.app/)
 
-![energy_hack_team2.jpg](https://github.com/oliverounaid/energyhack-project/blob/main/Images/energy_hack_team2.jpg)
+![Skeem](https://github.com/Kristanna/destiny_2/blob/main/img/skeem.jpg)
