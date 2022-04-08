@@ -6,7 +6,7 @@
 - Kristiina Kudritskaja _TA-21_
 - Karl-Patric Rohi _TAK-21_
 - Marten Saar _TAK-21_
-- Kaarel Kallas _TAK-21_
+- Kaarel Kallas _TAK-20_
 - Liisa Tiisväli _TA-21_
 
 
